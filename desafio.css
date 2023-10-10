@@ -1,0 +1,31 @@
+h1{
+     text-align: center;
+   }
+   p{
+       text-align: center;
+   
+   }
+   .kitty{
+    text-align: center;
+   }
+   .kytty{
+    text-align: center;   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+   .botão{
+       color: wheat;
+       background-color: black;
+   }
+   body{
+       border-style: solid;
+       margin: 0px 450px;
+       color: black;
+       background-color: rgb(103, 92, 113);
+   }
+.img {
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
